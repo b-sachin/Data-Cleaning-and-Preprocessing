@@ -1,0 +1,2 @@
+2011 Journal of Statistical Software
+ paper titled 'Dates and Times Made Easy with lubridate'
